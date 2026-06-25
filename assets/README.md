@@ -1,0 +1,3 @@
+# my_port_folio_page
+
+## Directory where i place all my images, photos , logo , cv etc...
